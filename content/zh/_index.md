@@ -157,7 +157,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: 科研项目
+      title: 代表性研究
       filters:
         folders:
           - project
@@ -168,13 +168,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: 所有
-          tag: '*'
-        - name: 方向1：海上风浪模拟方法
-          tag: Deep Learning
-        - name: 方向2：海上结构动力学响应
-          tag: Demo
+      # buttons:
+      #   - name: 所有
+      #     tag: '*'
+      #   - name: 方向1：海上风浪模拟方法
+      #     tag: Deep Learning
+      #   - name: 方向2：海上结构动力学响应
+      #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -189,17 +189,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: 代表性成果
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: 代表性成果
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
     content:
       title: 论文专著

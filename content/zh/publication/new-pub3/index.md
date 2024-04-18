@@ -1,5 +1,5 @@
 ---
-title: "Large eddy simulation of hurricane boundary layer turbulence and its application for power transmission system"
+title: "Large eddy2"
 authors:
 - admin
 - Chao Sun
@@ -63,8 +63,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

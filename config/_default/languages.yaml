@@ -12,7 +12,7 @@ en:
 zh:
  languageCode: zh-Hans
  contentDir: content/zh
- #title: 我的个人网站
+ title: 学术网站
  params:
    description: Site description in Chinese...
  menu:
@@ -20,7 +20,7 @@ zh:
     #  - name: 传
     #    url: '#about'
     #    weight: 1
-    - name: 主页
+    - name: 个人简介
       url: '#about'
       weight: 10
     - name: 科研项目
