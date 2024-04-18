@@ -21,11 +21,11 @@ role: 博士后
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 华北电力大学 海上风电装备研究所
+  - name: 华北电力大学(北京)
     url: https://www.ncepu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 研究方向：极端复杂条件下海上及海岸结构的安全性分析
 
 # Interests to show in About widget
 interests:
