@@ -1,16 +1,16 @@
 ---
-title: "Large eddy2"
+title: "Large Eddy Simulation of Wind Turbulence over Non-breaking and Breaking Waves"
 authors:
 - admin
 - Chao Sun
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Wind Engineering and Industrial Aerodynamics, 1*(1)"
+publication: "Ocean Engineering (accept)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Wind-wave interaction affects the wind-wave fields and the combined loading on structures. This study aims to characterize turbulent airflow over non-breaking and breaking waves using a high-fidelity two-phase model in OpenFOAM. The volume of fluid method is utilized to model the complex air-water interface. Wind turbulence is considered via prescribing it at the inlet boundary. The model is validated against experimental data, and a numerical case study is conducted to simulate extreme wind and wave-plunging conditions. Results reveal that non-breaking waves induce wind turbulence and affect averaged wind velocity. For wave steepness exceeding 0.35, extreme wind forces amplify the turbulence by over $100\%$ at wave crests. The amplified turbulence region extends to about $0.6\lambda$ in height. When waves plunge, an overturning jet propels the wind forward, generates a counterclockwise vortex, and enhances wind turbulence. Averaged wind speeds increase by over $20\%$ above wave crests, with the enhanced region extending to a height of around $0.2\lambda$ for old waves. Maximum turbulence kinetic energy transiently increases by around $0.1C_p^2$ and maximum kinematic energy of wave-coherent velocity increases and subsequently decreases during wave plunging.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis #placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes

@@ -1,12 +1,14 @@
 ---
-title: "An example preprint / working paper"
+title: "Large Eddy Simulation of Non-stationary Hurricane Boundary Layer Winds"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Chao Sun
+- Paul Miller
+date: "2023-10-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-05T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,10 +19,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recent extreme tropical cyclones caused extensive damages to critical civil infrastructure globally. To better capture the unique hurricane wind characteristics, a large eddy simulation (LES) Hurricane Boundary Layer (HBL) model is developed by considering the variation of meso-scale kinematic and thermodynamic conditions. An asymmetric model is adopted to obtain the gradient wind velocity using the National Hurricane Center data. The meso-scale thermal conditions are obtained by extracting the hourly air temperature and relative humidity profiles from generated proxy soundings. Measurements recorded at the Aransas County airport during Hurricane Harvey and that at the City of Naples during Irma are used to validate the developed LES model. Research results show that the simulated 10-minute average wind speed and direction are consistent with the observations. The developed model can well predict the high wind turbulences, which are around 20% in Hurricane Harvey and 26% in Hurricane Irma. The 3-s gust wind speeds reach 62.4 m/s at 10-m elevation during Hurricane Harvey and 53.5 m/s at 15-m elevation during Hurricane Irma, close to the field observed data of 61.3 m/s and 54.2 m/s, respectively. The simulated 3-s gust factors are close to the observation except at some moments with significant variations because of the poorly understood physical phenomena. The simulated wind spectrum in longitudinal and lateral directions agrees well with the observed results. In summary, the developed LES-based HBL model can capture the main characteristics of hurricane structure and turbulence characteristics and is applicable for modeling civil infrastructure exposed to hurricanes. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis #placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -28,9 +30,9 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url:  https://doi.org/10.48550/arXiv.2310.03350
+url_pdf: https://arxiv.org/pdf/2310.03350.pdf
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''

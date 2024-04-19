@@ -7,11 +7,11 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2017-09-01T00:00:00Z"
+date: "2017-07-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-07-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Marine Systems & Ocean Technology, 1*(1)"
+publication: "*Marine Systems & Ocean Technology, 12*(2017)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The dynamic behavior of pipes subjected to internal gas–liquid two-phase flow has been studied using the Timoshenko beam model and the slip-ratio factor model. In this paper, the governing equations were carried out using the generalized integral transform technique (GITT) by transforming the governing partial differential equations into a set of second-order ordinary differential equations. The comparison between Timoshenko beam model and Euler–Bernoulli beam model has been conducted through parametric study on dimensionless frequencies and amplitudes over various aspect ratios, internal fluid flow rates, and volumetric gas fractions. The results show that the frequencies of Timoshenko beam model are less and the amplitude is larger than that of Euler–Bernoulli beam model at low aspect ratio. In addition, the amplitude for Timoshenko beam model increases more dramatically than that of Euler–Bernoulli beam model when the pipe is about to lose stability. The high flow rate leads to the divergence of the dynamic system, as well as the two-phase flow accelerates the instability and has significant influence on the dynamic response when the pipe is long and the internal liquid flows fast.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis #placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes

@@ -1,16 +1,19 @@
 ---
-title: "Large eddy simulation of hurricane boundary layer turbulence and its application for power transmission system"
+title: "内输多相流与绕流耦合作用下立管非线性振动"
 authors:
 - admin
-- Chao Sun
+- 顾继俊
+- 孙旭
+- 张赢今
+- 李明婕
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2021"
+date: "2018-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-02-03T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +21,13 @@ publishDate: "2021-02-03T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Wind Engineering and Industrial Aerodynamics, 210*(2021)"
+publication: "振动与冲击"
 publication_short: ""
 
-abstract: Recent extreme hurricanes caused a huge loss in damages to critical civil infrastructure. To estimate hurricane wind loading on structures, spectral methods are widely used to generate neutral atmosphere boundary layer winds, which however are limited to describe extreme wind fields that are non-stationary and more turbulent. To overcome this limitation, a high-fidelity high-resolution computational model is developed to simulate hurricane wind field with detailed physics. A large eddy simulation (LES) solver is developed using a sub-grid-scale model based on open source program OpenFOAM. The simulated wind field is validated through comparison with observations The generated wind field is applied to analyze structural response of a power transmission system. The proposed hurricane boundary layer (HBL) model and a neutral atmosphere boundary layer (ABL) model are compared in tropical storm and category-3 hurricane scenarios. Compared with the HBL model, the ABL model doesn’t consider the mesoscale terms and overestimates the crosswind velocity and the turbulent kinetic energy (TKE) near the ground. As a result, the ABL model overestimates the dynamic responses of the wires and towers. The developed HBL model captures the main characteristics of hurricane wind and is applicable for modeling civil infrastructure exposed to hurricanes at a large scale.
+abstract: 对内输多相流立管在内流与外部绕流耦合作用下的振动响应进行了分析。建立了内部多相流-立管-外部绕流的耦合方程，并采用广义积分变换法(GITT)将偏微分方程转化为常微分方程进行求解。分析得到立管内两相流会引起立管自然频率的降低，管内流速越高，立管越长，两相流作用越明显;立管在内流和外部绕流共同作用下，管内含气量的增加，使立管发生涡激振动的频率降低，振动幅值增加;管内两相流的作用会引起立管在较小的外部流速下发生共振并且会诱发立管发生更高一阶模态的振动;外部绕流流速越高，管内两相流作用越小。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis #placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -63,8 +66,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
