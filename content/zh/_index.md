@@ -235,7 +235,7 @@ sections:
       title: 联系方式
       subtitle:
       text: |-
-        欢迎计算力学、海洋工程、土木等专业学生报考本团队硕士和博士研究生。有合作意向的科研同行，欢迎进一步交流。
+        欢迎计算流体力学、流体机械及工程、海洋工程、结构力学、土木工程等专业学生报考本团队硕士和博士研究生。有合作意向的科研同行，欢迎进一步交流。
       # Contact (add or remove contact options as necessary)
       email: matq@ncepu.edu.cn
       phone: 13358138749
@@ -247,7 +247,7 @@ sections:
         postcode: '102206'
         country: 中国
         country_code: CN
-      directions: 主楼F813
+      directions: 主楼F613
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
