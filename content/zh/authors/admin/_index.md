@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 博士后
+role: 讲师
 
 # Organizations/Affiliations to show in About widget
 organizations:
